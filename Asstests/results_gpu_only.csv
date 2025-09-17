@@ -1,0 +1,3 @@
+Variant,Acc,LatencyMs,SizeMB,Device
+Teacher-ResNet18 (GPU),0.8991,2.9012838999430337,44.726568,cuda
+Student-KD-Pruned (GPU),0.2144,7.893037796020508,6.112424,cuda
